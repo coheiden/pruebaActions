@@ -1,1 +1,1 @@
-FROM phpunit
+phpunit/phpunit
